@@ -356,4 +356,13 @@ export const showcase: ShowcaseApp[] = [
     mode: "native",
     image: "/showcase/miguwave.jpg",
   },
+  {
+    name: "Framely",
+    description:
+      "An open-source screenshot and pinning app for Windows, Linux and macOS, with annotation tools and offline OCR. Scrolling screenshots are available on Windows and Linux.",
+    url: "https://github.com/wildalley/screenpin",
+    author: "wildalley",
+    mode: "native",
+    image: "/showcase/framely.svg",
+  },
 ]
